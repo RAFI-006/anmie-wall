@@ -15,8 +15,7 @@ const TEST_GIFS = [
 	'https://media.giphy.com/media/jbwB60QgImkgpISvpb/giphy.gif',
 	'https://i.giphy.com/media/PAqjdPkJLDsmBRSYUp/giphy.webp',
   'https://i.giphy.com/media/PAqjdPkJLDsmBRSYUp/giphy.webp',
-  
-]
+  ]
  
 
 const App = () => {
@@ -108,7 +107,7 @@ const App = () => {
       className="cta-button connect-wallet-button"
       onClick={connectWallet}
     >
-      Connect to Wallet
+    {walletAddress ?   walletAddress:"Connect to Wallet"}
     </button>
   );
 
@@ -140,11 +139,20 @@ const renderConnectedContainer = () => (
   return (
     <div className="App">
       <div className="container">
+      <div className='header-div'>
+
+<div className='heading-info'> 
+<p className="header">🖼 Anmie Wall</p>
+ <p className="sub-text">
+    Your GIF collection in the metaverse ✨
+ </p>
+</div>
+
+
+ {renderNotConnectedContainer()}
+</div>
         <div className="header-container">
-          <p className="header">🖼 Anmie Wall</p>
-          <p className="sub-text">
-             Your GIF collection in the metaverse ✨
-          </p>
+       
 
   { renderConnectedContainer()}
           
