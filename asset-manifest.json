@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/anmie-wall/static/css/main.52df4df7.chunk.css",
-    "main.js": "/anmie-wall/static/js/main.eef76f14.chunk.js",
-    "main.js.map": "/anmie-wall/static/js/main.eef76f14.chunk.js.map",
+    "main.js": "/anmie-wall/static/js/main.26ef78ce.chunk.js",
+    "main.js.map": "/anmie-wall/static/js/main.26ef78ce.chunk.js.map",
     "runtime-main.js": "/anmie-wall/static/js/runtime-main.f26335cc.js",
     "runtime-main.js.map": "/anmie-wall/static/js/runtime-main.f26335cc.js.map",
-    "static/js/2.25097c96.chunk.js": "/anmie-wall/static/js/2.25097c96.chunk.js",
-    "static/js/2.25097c96.chunk.js.map": "/anmie-wall/static/js/2.25097c96.chunk.js.map",
+    "static/js/2.ae07bd12.chunk.js": "/anmie-wall/static/js/2.ae07bd12.chunk.js",
+    "static/js/2.ae07bd12.chunk.js.map": "/anmie-wall/static/js/2.ae07bd12.chunk.js.map",
     "index.html": "/anmie-wall/index.html",
     "static/css/main.52df4df7.chunk.css.map": "/anmie-wall/static/css/main.52df4df7.chunk.css.map",
-    "static/js/2.25097c96.chunk.js.LICENSE.txt": "/anmie-wall/static/js/2.25097c96.chunk.js.LICENSE.txt",
+    "static/js/2.ae07bd12.chunk.js.LICENSE.txt": "/anmie-wall/static/js/2.ae07bd12.chunk.js.LICENSE.txt",
     "static/media/twitter-logo.a8a75254.svg": "/anmie-wall/static/media/twitter-logo.a8a75254.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f26335cc.js",
-    "static/js/2.25097c96.chunk.js",
+    "static/js/2.ae07bd12.chunk.js",
     "static/css/main.52df4df7.chunk.css",
-    "static/js/main.eef76f14.chunk.js"
+    "static/js/main.26ef78ce.chunk.js"
   ]
 }
