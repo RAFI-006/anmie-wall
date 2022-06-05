@@ -1,7 +1,7 @@
 # anmie-wall
 Put your Giphy Animation into Web3.0.
 
-# Technology & PLatform
+# Technology & Platform
 
 Solana Platform,
 Phantom for wallet connection,
